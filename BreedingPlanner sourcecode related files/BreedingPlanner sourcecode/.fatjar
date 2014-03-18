@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Dec 03 14:14:53 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MBP.jar
+manifest.mergeall=true
+manifest.mainclass=com.gui.MainShell
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
